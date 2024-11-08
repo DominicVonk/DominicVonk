@@ -31,10 +31,6 @@ Passionate freelance software engineer with a knack for solving complex technica
 - **Technical Documentation**: Creating comprehensive debugging guides
 - **Code Review**: Finding and fixing potential issues before they occur
 
-## 📊 GitHub Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DominicVonk&show_icons=true&theme=dracula" />
-
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/DominicVonk)
