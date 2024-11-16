@@ -4,7 +4,9 @@
 
 ## About Me
 
-Passionate freelance software engineer with a knack for solving complex technical challenges. Known for my troubleshooting expertise and ability to untangle the most intricate software problems. When I'm not debugging or contributing to open source, I'm spending quality time with my amazing wife Nadja and our two wonderful sons.
+Software engineer who loves cracking tough technical puzzles. I thrive on solving complex challenges and building robust solutions that make a real difference. As a freelancer, I get to work on diverse projects that keep me learning and growing every day.
+
+When I'm not deep in code or contributing to open source, I'm spending quality time with my amazing wife Nadja and our two energetic boys. They're my reason to close the laptop and remember there's more to life than debugging!
 
 ## 🔧 Technologies & Tools
 
@@ -13,7 +15,7 @@ Passionate freelance software engineer with a knack for solving complex technica
 ![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=cursor&logoColor=white)
 
 ## 💻 What I Do
 
