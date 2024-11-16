@@ -15,7 +15,7 @@ When I'm not deep in code or contributing to open source, I'm spending quality t
 ![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=cursor&logoColor=white)
+![](https://img.shields.io/badge/Cursor-gray?style=flat-square&logo=cursor&logoColor=white)
 
 ## 💻 What I Do
 
